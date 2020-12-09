@@ -1,7 +1,7 @@
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import Donations from "../components/Donations";
-import Masthead from "../components/Masthead";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
+import Donations from "../../components/Donations";
+import Masthead from "../../components/Masthead";
 
 /**
  *  @description
@@ -17,7 +17,6 @@ import Masthead from "../components/Masthead";
 function Minecraft() {
   return (
     <div>
-      <Navbar />
       <section>
         <div className="container">
           <h1>Geyyyy</h1>
@@ -26,7 +25,6 @@ function Minecraft() {
           </p>
         </div>
       </section>
-      <Footer />
     </div>
   );
 }
