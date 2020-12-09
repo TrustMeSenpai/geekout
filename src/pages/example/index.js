@@ -14,22 +14,21 @@ import Masthead from "../components/Masthead";
  *  Your server to be running ---> Run `npm run dev` in your terminal
  */
 
-function Home() {
+function Minecraft() {
   return (
     <div>
       <Navbar />
       <section>
         <div className="container">
-          <h1>The End of the Overworld is upon us</h1>
+          <h1>Geyyyy</h1>
           <p>
-            The Minecraft World is at war. In this time of chaos, blacksmiths and adventurers contribute to the frontline with supplies and equipment. Glory to the Motherland!
+            Lmao ya gay
           </p>
         </div>
       </section>
-      <Donations />
       <Footer />
     </div>
   );
 }
 
-export default Home;
+export default Minecraft;

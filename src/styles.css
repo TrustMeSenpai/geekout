@@ -13,7 +13,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #f9f9f9;
+  background: #55505C;
 }
 
 p {
@@ -50,7 +50,7 @@ section .container {
 
 .results {
   border-top: 1px solid #e3e5ec;
-  background: #edf2f7;
+  background: #B9C5CB;
   padding: 16px 0;
 }
 
@@ -68,7 +68,7 @@ section .container {
 }
 
 .nav {
-  background: #3d4c60;
+  background: #55505C;
   color: white;
 }
 
@@ -78,6 +78,12 @@ section .container {
 
 .footer {
   border-top: 1px solid #e3e5ec;
-  background: #f9f9f9;
-  color: #3d4c60;
+  background: #55505C;
+  color: white;
+}
+
+.masthead {
+  height: 30px;
+  background: #5D737E;
+  color: white;
 }

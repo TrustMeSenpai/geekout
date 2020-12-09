@@ -3,7 +3,7 @@ function Footer() {
     <section className="footer">
       <footer className="container">
         <small>
-          <b>GeekOut</b> | <i>Made For GovTech's GeekOut Web Dev Workshop</i>
+          <b>Creaper</b> | <i>Creeping upon our enemies and reaping their souls</i>
         </small>
       </footer>
     </section>

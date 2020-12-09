@@ -1,19 +1,27 @@
-const sampleDonations = [
+var sampleDonations = [
   {
     id: "1",
-    unit: "roll",
+    unit: "blades",
     quantity: "111",
-    division: "simei",
-    name: "Toilet Roll",
+    division: "Nether",
+    name: "Diamond Swords",
   },
   {
     id: "2",
-    unit: "piece",
-    quantity: "2",
-    division: "buangkok",
-    name: "Prata",
+    unit: "picks",
+    quantity: "20",
+    division: "Overworld",
+    name: "Diamond Pickaxes",
+  },
+  {
+    id: "3",
+    unit: "pearls",
+    quantity: "30",
+    division: "Overworld",
+    name: "Ender Pearls",
   },
 ];
+
 
 /**
  *  @description
